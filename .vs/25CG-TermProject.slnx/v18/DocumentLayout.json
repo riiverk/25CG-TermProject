@@ -18,8 +18,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pikmin.h",
+              "DocumentMoniker": "C:\\Users\\seokj\\OneDrive\\Desktop\\ComputerGraphics\\25CG-TermProject\\Pikmin.h",
+              "RelativeDocumentMoniker": "Pikmin.h",
+              "ToolTip": "C:\\Users\\seokj\\OneDrive\\Desktop\\ComputerGraphics\\25CG-TermProject\\Pikmin.h",
+              "RelativeToolTip": "Pikmin.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-11-24T05:00:03.052Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -30,21 +43,7 @@
               "RelativeToolTip": "Pikmin.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-11-24T05:01:40.921Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Pikmin.h",
-              "DocumentMoniker": "C:\\Users\\seokj\\OneDrive\\Desktop\\ComputerGraphics\\25CG-TermProject\\Pikmin.h",
-              "RelativeDocumentMoniker": "Pikmin.h",
-              "ToolTip": "C:\\Users\\seokj\\OneDrive\\Desktop\\ComputerGraphics\\25CG-TermProject\\Pikmin.h",
-              "RelativeToolTip": "Pikmin.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-11-24T05:00:03.052Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-11-24T05:01:40.921Z"
             }
           ]
         }
